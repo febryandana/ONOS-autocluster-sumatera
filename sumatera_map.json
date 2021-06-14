@@ -2,7 +2,7 @@
   "devices": {
     "of:0000000000000001": { "basic": { "name": "Banda Aceh", "latitude": 5.5528455, "longitude": 95.3192908 }},
     "of:0000000000000002": { "basic": { "name": "Medan", "latitude": 3.5896654, "longitude": 98.6738261 }},
-    "of:0000000000000003": { "basic": { "name": "Pekanbaru", "latitude": 0.5262455, "longitude": 1101.4515727 }},
+    "of:0000000000000003": { "basic": { "name": "Pekanbaru", "latitude": 0.5262455, "longitude": 101.4515727 }},
     "of:0000000000000004": { "basic": { "name": "Padang", "latitude": -0.9247587, "longitude": 100.3632561 }},
     "of:0000000000000005": { "basic": { "name": "Jambi", "latitude": -1.611572, "longitude": 102.779699 }},
     "of:0000000000000006": { "basic": { "name": "Bengkulu", "latitude": -3.5186763, "longitude": 102.5359834 }},
